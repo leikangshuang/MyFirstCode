@@ -1,4 +1,4 @@
-# MyFirstCode
+# java贪吃蛇游戏
 java编写的贪吃蛇小游戏，
 本游戏参考了https://blog.csdn.net/u011622021/article/details/81162083。
 修复了一些bug。
